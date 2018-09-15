@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/player_front_dev.png-b220d24c746126ccc4bf57d8e5e240fd.stex"
+path="res://.import/roguelikeSheet_transparent.png-cd3a50438593de754089da4607424a78.stex"
 
 [deps]
 
-source_file="res://assets/player_front_dev.png"
-dest_files=[ "res://.import/player_front_dev.png-b220d24c746126ccc4bf57d8e5e240fd.stex" ]
+source_file="res://assets/roguelikeSheet_transparent.png"
+dest_files=[ "res://.import/roguelikeSheet_transparent.png-cd3a50438593de754089da4607424a78.stex" ]
 
 [params]
 
@@ -17,8 +17,8 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
-flags/mipmaps=true
+flags/filter=true
+flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
 process/fix_alpha_border=true
